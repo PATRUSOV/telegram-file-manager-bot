@@ -1,4 +1,4 @@
-# 📝 Telegram Task Manager Bot
+# 📝 Telegram File Manager Bot
 
 A professional, asynchronous Telegram bot built with **aiogram 3.x** and
 **aiosqlite**.\
@@ -15,8 +15,6 @@ custom categories with a clean hybrid interface.
     documents, and more
 -   **Hybrid UI** -- Reply keyboards for navigation and inline keyboards
     for contextual actions
--   **Category Management Panel** -- Dedicated settings flow for full
-    control
 -   **Persistent Storage** -- Asynchronous SQLite database for reliable
     performance
 
@@ -40,8 +38,8 @@ custom categories with a clean hybrid interface.
 ### 1. Clone the Repository
 
 ``` bash
-git clone https://github.com/PATRUSOV/python-bot-planner.git
-cd python-bot-planner
+git clone https://github.com/PATRUSOV/telegram-file-manager-bot.git
+cd telegram-file-manager-bot
 ```
 
 ### 2. Fill Environment File
